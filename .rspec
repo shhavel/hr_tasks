@@ -2,3 +2,4 @@
 --color
 --tty
 -I lib
+--require pry
