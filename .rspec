@@ -1,0 +1,4 @@
+--format doc
+--color
+--tty
+-I lib
