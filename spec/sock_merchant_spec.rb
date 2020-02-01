@@ -1,4 +1,4 @@
-def sockMerchant(n, ar)
+def sockMerchant(_n, ar)
   unpaired = []
   pairs = 0
   ar.each do |sock|

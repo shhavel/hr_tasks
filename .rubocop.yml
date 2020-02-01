@@ -1,0 +1,26 @@
+Naming/MethodName:
+  Enabled: No
+Naming/UncommunicativeMethodParamName:
+  Enabled: No
+Metrics/MethodLength:
+  Enabled: No
+Layout/EmptyLineAfterGuardClause:
+  Enabled: No
+Metrics/CyclomaticComplexity:
+  Enabled: No
+Metrics/PerceivedComplexity:
+  Enabled: No
+Metrics/LineLength:
+  Enabled: No
+Metrics/AbcSize:
+  Enabled: No
+Metrics/ParameterLists:
+  Enabled: No
+Style/ParallelAssignment:
+  Enabled: No
+Layout/SpaceAroundOperators:
+  Enabled: No
+Lint/AmbiguousBlockAssociation:
+  Enabled: No
+Style/IfUnlessModifier:
+  Enabled: No
