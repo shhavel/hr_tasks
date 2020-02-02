@@ -1,3 +1,5 @@
+require: rubocop-performance
+
 Naming/MethodName:
   Enabled: No
 Naming/UncommunicativeMethodParamName:
