@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def kangaroo(x1, v1, x2, v2)
   if x1 == x2
     'YES'

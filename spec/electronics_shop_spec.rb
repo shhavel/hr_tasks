@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def getMoneySpent(keyboards, drives, b)
   return -1 if keyboards.empty? || drives.empty?
   keyboards.sort!

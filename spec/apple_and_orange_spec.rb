@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def countApplesAndOranges(s, t, a, b, apples, oranges)
   puts apples.count { |x| s <= a + x && a + x <= t }
   puts oranges.count { |x| s <= b + x && b + x <= t }

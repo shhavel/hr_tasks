@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def dayOfProgrammer(year)
   return year % 4 == 0 ? "12.09.#{year}" : "13.09.#{year}" if year <= 1917
   return '26.09.1918' if year == 1918

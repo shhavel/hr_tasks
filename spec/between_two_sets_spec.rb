@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def getTotalX(a, b)
   a_lcm = a.reduce(&:lcm)
   b_gcd = b.reduce(&:gcd)

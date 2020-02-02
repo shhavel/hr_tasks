@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def breakingRecords(scores)
   min = max = scores.first
   cnt_min, cnt_max = 0, 0

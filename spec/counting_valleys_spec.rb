@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def countingValleys(_n, s)
   lvl = 0
   cnt = 0

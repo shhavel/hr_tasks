@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def bonAppetit(bill, k, b)
   amount = (bill.reduce(:+) - bill[k]) / 2
   print amount == b ? 'Bon Appetit' : b - amount

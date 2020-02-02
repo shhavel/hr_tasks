@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def birthday(s, d, m)
   n = s.length
   return 0 if m > n

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def gradingStudents(grades)
   grades.map do |grade|
     next grade if grade < 38

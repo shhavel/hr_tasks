@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def migratoryBirds(arr)
   return if arr.empty?
   arr.sort!

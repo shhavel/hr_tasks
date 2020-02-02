@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def sockMerchant(_n, ar)
   unpaired = []
   pairs = 0

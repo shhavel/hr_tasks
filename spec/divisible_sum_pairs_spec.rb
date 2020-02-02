@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def divisibleSumPairs(n, k, ar)
   cnt = 0
   0.upto(n - 2) do |i|

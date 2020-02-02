@@ -24,3 +24,5 @@ Lint/AmbiguousBlockAssociation:
   Enabled: No
 Style/IfUnlessModifier:
   Enabled: No
+Style/NumericLiterals:
+  Enabled: No
