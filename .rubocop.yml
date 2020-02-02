@@ -26,3 +26,11 @@ Style/IfUnlessModifier:
   Enabled: No
 Style/NumericLiterals:
   Enabled: No
+Style/ConditionalAssignment:
+  Enabled: No
+Layout/IndentationWidth:
+  Enabled: No
+Layout/ElseAlignment:
+  Enabled: No
+Style/GuardClause:
+  Enabled: No
